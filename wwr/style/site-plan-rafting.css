@@ -22,9 +22,9 @@ root {
   --primary-color: #003049  ;
   --paragraph-background-color: #003049  ;
   ;
-  --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
-  --nav-hover-link-color: white;
+  --nav-link-color: #003049;
+  --nav-background-color: #780000;
+  --nav-hover-link-color: #E9FFF9;
   --nav-hover-background-color: #396E94;
 }
 
